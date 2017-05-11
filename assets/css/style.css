@@ -12,6 +12,8 @@ h1 {
 	font-family: Georgia;
 }
 
+@media screen and (max-width: 980px) {
+
 .headerBackground {
 	background-color: white;
 	height: 60px;
@@ -286,6 +288,7 @@ h1 {
 	text-align: center;
 }
 
+}
 
 
 @media screen and (max-width: 640px) {
@@ -432,7 +435,7 @@ h1 {
 	height: 2px;
 	width: 530px;
 	margin-bottom: 30px;
-	margin-top: 10px;
+	margin-top: 0px;
 }
 
 .footer {
@@ -454,16 +457,16 @@ h1 {
 
 .portfolio {
 	display: inline-block;
-	padding: 10px;
-	height: 150px;
-	width: 240px;
+	padding-bottom: 10px;
+	height: 270px;
+	width: 515px;
 }
 
 .portfolio:hover {
 	display: inline-block;
-	padding: 10px;
-	height: 150px;
-	width: 240px;
+	padding-bottom: 10px;
+	height: 270px;
+	width: 515px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
 }
 
