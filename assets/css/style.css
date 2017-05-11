@@ -57,7 +57,7 @@ h1 {
 	float: left;
 	margin-top: 20px;
 	font-size: 20px;
-	padding-left: 440px;
+	padding-left: 435px;
 }
 
 .listItems:hover {
@@ -76,6 +76,13 @@ h1 {
 	display: inline-block;
 	padding-left: 16px;
 	color: grey;
+}
+
+.rightBorder {
+	border-right: 1px;
+	border-style: solid;
+	border-color: #ccc;
+	padding-right: 20px;
 }
 
 .middleStyle {
@@ -114,7 +121,7 @@ h1 {
 }
 
 .socialIcons {
-	margin-left: 4px;
+	margin-left: 10px;
 	width: 50px;
 }
 
@@ -130,7 +137,14 @@ h1 {
 	height: 2px;
 	margin-bottom: 30px;
 	margin-top: 5px;
+}
 
+.line2 {
+	background-color: #ccc;
+	width: 200px;
+	height: 2px;
+	margin-bottom: 30px;
+	margin-top: 10px;
 }
 
 .footer {
@@ -260,6 +274,10 @@ h1 {
 	color: #777777;
 }
 
+.textAlignC {
+	text-align: center;
+}
+
 
 
 @media screen and (max-width: 640px) {
@@ -303,8 +321,8 @@ h1 {
 .nameStyle {
 	background: #69abb2;
 	font-size: 30px;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding-left: 0px;
+	padding-right: 0px;
 	float: none;
 	width: 640px;
 	text-align: center;
@@ -317,7 +335,7 @@ h1 {
 	float: left;
 	margin-top: 20px;
 	font-size: 20px;
-	padding-left: 215px;
+	padding-left: 175px;
 }
 
 .listItems:hover {
@@ -380,8 +398,8 @@ h1 {
 }
 
 .socialIcons {
-	margin-left: 4px;
-	width: 50px;
+	margin-left: 60px;
+	width: 100px;
 }
 
 .midParagraph {
@@ -398,6 +416,14 @@ h1 {
 	margin-bottom: 30px;
 	margin-top: 5px;
 
+}
+
+.line2 {
+	background-color: #ccc;
+	height: 2px;
+	width: 530px;
+	margin-bottom: 30px;
+	margin-top: 10px;
 }
 
 .footer {
@@ -501,6 +527,12 @@ h1 {
 	border-width: 1px;
 }
 
+.rightBorder {
+	border-right: 1px;
+	border-style: solid;
+	border-color: #ccc;
+	padding-right: 20px;
+}
 
 
 /* Single Styles!*/
@@ -528,6 +560,10 @@ h1 {
 
 .textColor {
 	color: #777777;
+}
+
+.textAlignC {
+	text-align: center;
 }
 
 
