@@ -124,6 +124,7 @@ h1 {
 	padding-top: 30px;
 	margin-left: 32px;
 	float: left;
+	margin-bottom: 70px;
 }
 
 .socialIcons {
@@ -402,6 +403,7 @@ h1 {
 	margin-right: 20px;
 	margin-left: 20px;
 	width: 533px;
+	margin-bottom: 70px;
 }
 
 .socialIcons {
@@ -447,6 +449,7 @@ h1 {
 	border-width: 5px 0px 0px 0px;
 	border-color: #69abb2;
 	font-size: 15px;
+	margin-top: 20px;
 }
 
 .portfolio {
